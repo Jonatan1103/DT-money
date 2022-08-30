@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 74,
       "createdAt": "2022-08-26T13:18:30.264Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2022-08-30T14:46:06.154Z",
+      "id": 3
+    },
+    {
+      "description": "Pastel de frango",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 18,
+      "createdAt": "2022-08-30T15:08:02.896Z",
+      "id": 4
     }
   ]
 }
