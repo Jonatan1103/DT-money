@@ -18,6 +18,7 @@ export function NewTransactionModal() {
   const {
     register,
     handleSubmit, 
+    formState: { isSubmitting }
   } = useForm<NewTransacrionFormInputs>({
     resolver: zodResolver(newTransactionFormSchema),
 
@@ -69,7 +70,7 @@ export function NewTransactionModal() {
             </TransactionTypeButton>
           </TransactionType>
 
-          <button type='submit'>
+          <button type='submit' disabled={isSubmitting}>
             Cadastrar
           </button>
         </form>
