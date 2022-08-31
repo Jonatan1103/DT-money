@@ -31,6 +31,14 @@
       "price": 18,
       "createdAt": "2022-08-30T15:08:02.896Z",
       "id": 4
+    },
+    {
+      "description": "Compras mensais",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 800,
+      "createdAt": "2022-08-31T13:54:36.140Z",
+      "id": 5
     }
   ]
 }
