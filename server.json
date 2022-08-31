@@ -39,6 +39,14 @@
       "price": 800,
       "createdAt": "2022-08-31T13:54:36.140Z",
       "id": 5
+    },
+    {
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Despesa fixa",
+      "price": 1000,
+      "createdAt": "2022-08-31T14:06:44.307Z",
+      "id": 6
     }
   ]
 }
